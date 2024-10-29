@@ -1,5 +1,6 @@
-# HDL
-Informational materials for a course on logic networks, HDLs and programmable logic arrays (FPGAs).
+# HDL PID 
+
+## Informational documents for a course on logic networks, HDLs and programmable logic arrays (FPGAs).
 
 This presentation was used at two informational meetings (a two-part seminar) on behalf of the San Marino Association of Professionals for Digital Innovation (PID).
 
