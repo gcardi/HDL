@@ -39,3 +39,15 @@ The material is available in two languages, each in its own folder. The English 
 | [HDL_Code-EN.zip](ENG/HDL_Code-EN.zip) | Same code as the Italian archive, with the Italian comment translated. |
 
 > **Note:** the text of the slides is translated, but some figures are bitmaps with embedded Italian labels (for example some diagrams, truth-table boxes and oscilloscope captions). Those labels are still in Italian in the English version.
+
+### Examples from the English slides
+
+The following examples illustrate the visual style and explanatory approach used in the English presentation.
+
+![S-R latch simulation with three-valued logic](docs/assets/images/HDL-Part1-EN-Pict1.png)
+
+*A step-by-step simulation of an S-R latch, paired with a timing diagram to connect the circuit's behavior to its signal transitions.*
+
+![Sequential logic networks](docs/assets/images/HDL-Part1-EN-Pict2.png)
+
+*A sequence of circuit transformations shows how feedback in a sequential network can be opened to derive its Boolean expression.*
